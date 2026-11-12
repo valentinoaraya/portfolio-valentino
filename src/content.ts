@@ -58,6 +58,7 @@ type Copy = {
 		socialTitle: string;
 		place: string;
 		backToTop: string;
+		credit: string;
 	};
 };
 
@@ -66,7 +67,7 @@ const links = {
 	github: "https://github.com/valentinoaraya",
 	linkedin: "https://www.linkedin.com/in/valentinoaraya/",
 	instagram: "https://www.instagram.com/tinoaraya/",
-	aedes: "https://aedestech.vercel.app",
+	aedes: "https://aedestec.com",
 };
 
 export { links };
@@ -287,12 +288,13 @@ export const copy: Record<Lang, Copy> = {
 			socialTitle: "Redes",
 			place: "San Rafael, Mendoza, Argentina",
 			backToTop: "Volver arriba",
+			credit: "Inspirado en",
 		},
 	},
 	en: {
 		nav: { about: "About", projects: "Projects", contact: "Contact" },
 		langLabel: "Change language",
-		cvFile: "/cv-valentino-araya.pdf",
+		cvFile: "/cv-valentino-araya-en.pdf",
 		hero: {
 			name: "Valentino Araya",
 			lineA: "I build software",
@@ -501,6 +503,7 @@ export const copy: Record<Lang, Copy> = {
 			socialTitle: "Social",
 			place: "San Rafael, Mendoza, Argentina",
 			backToTop: "Back to top",
+			credit: "Inspired by",
 		},
 	},
 };

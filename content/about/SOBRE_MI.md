@@ -200,4 +200,4 @@ El detalle de cada uno va en su propia página. Acá, una línea y el link al re
 - GitHub: [https://github.com/valentinoaraya](https://github.com/valentinoaraya)
 - LinkedIn: [https://www.linkedin.com/in/valentinoaraya/](https://www.linkedin.com/in/valentinoaraya/)
 - Instagram: [https://www.instagram.com/tinoaraya/](https://www.instagram.com/tinoaraya/)
-- Aedes Tech: [https://aedestech.vercel.app](https://aedestech.vercel.app)
+- Aedes Tech: [https://aedestec.com](https://aedestec.com)

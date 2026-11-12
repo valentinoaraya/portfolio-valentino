@@ -492,7 +492,7 @@
   grid-template-columns: minmax(0, 2.2fr) repeat(3, minmax(0, 0.8fr));
   gap: 2rem;
   align-items: start;
-  padding: max(48px, calc(64 * var(--px))) 56px max(48px, calc(72 * var(--px))) 0;
+  padding: max(48px, calc(64 * var(--px))) 56px max(28px, calc(40 * var(--px))) 0;
   border-top: 1px solid var(--night-line);
 }
 
@@ -562,6 +562,28 @@
   height: 14px;
 }
 
+.contact__credit {
+  margin: 0;
+  padding: 0 56px max(28px, calc(36 * var(--px))) 0;
+  color: var(--night-soft);
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  text-align: right;
+}
+
+.contact__credit a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.25em;
+}
+
+.contact__credit a:hover,
+.contact__credit a:focus-visible {
+  color: var(--pink);
+}
+
 @media (max-width: 980px) {
   .about {
     grid-template-columns: minmax(0, 1fr);
@@ -593,6 +615,10 @@
 
   .contact__footer {
     grid-template-columns: repeat(3, minmax(0, 1fr));
+    padding-right: 0;
+  }
+
+  .contact__credit {
     padding-right: 0;
   }
 

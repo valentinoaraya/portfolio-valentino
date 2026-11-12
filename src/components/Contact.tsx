@@ -52,6 +52,12 @@ export function Contact({ lang }: { lang: Lang }) {
           <ArrowUp />
         </a>
       </div>
+      <p className="contact__credit">
+        {c.credit}{' '}
+        <a href="https://extrafazant.nl" target="_blank" rel="noreferrer">
+          extrafazant.nl
+        </a>
+      </p>
     </footer>
   )
 }
