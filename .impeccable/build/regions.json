@@ -1,0 +1,159 @@
+{
+  "regions": [
+    {
+      "id": "wordmark",
+      "kind": "text",
+      "pixelBox": {
+        "x": 2,
+        "y": 0,
+        "w": 154,
+        "h": 76
+      },
+      "note": "blue hand-lettered script wordmark 'Valentino', top-left"
+    },
+    {
+      "id": "nav-pill",
+      "kind": "control",
+      "pixelBox": {
+        "x": 514,
+        "y": 1,
+        "w": 253,
+        "h": 60
+      },
+      "note": "white pill nav with three uppercase links: SOBRE MÍ, PROYECTOS, CONTACTO"
+    },
+    {
+      "id": "lang-chip",
+      "kind": "control",
+      "pixelBox": {
+        "x": 1092,
+        "y": 3,
+        "w": 86,
+        "h": 56
+      },
+      "note": "white chip 'ES / EN' language switch"
+    },
+    {
+      "id": "contact-chip",
+      "kind": "control",
+      "pixelBox": {
+        "x": 1161,
+        "y": 3,
+        "w": 115,
+        "h": 56
+      },
+      "note": "white chip with blue dot and 'CONTACTO'"
+    },
+    {
+      "id": "kicker",
+      "kind": "text",
+      "pixelBox": {
+        "x": 450,
+        "y": 158,
+        "w": 382,
+        "h": 44
+      },
+      "note": "serif kicker 'Valentino Araya / San Rafael, Mendoza'"
+    },
+    {
+      "id": "headline-1",
+      "kind": "text",
+      "pixelBox": {
+        "x": 120,
+        "y": 208,
+        "w": 1040,
+        "h": 124
+      },
+      "note": "ultra-heavy condensed grotesk capitals 'CONSTRUYO SOFTWARE', black"
+    },
+    {
+      "id": "headline-2",
+      "kind": "text",
+      "pixelBox": {
+        "x": 188,
+        "y": 332,
+        "w": 922,
+        "h": 104
+      },
+      "note": "light condensed serif capitals 'QUE ESTÁ EN PRODUCCIÓN', black"
+    },
+    {
+      "id": "subline",
+      "kind": "text",
+      "pixelBox": {
+        "x": 256,
+        "y": 419,
+        "w": 759,
+        "h": 54
+      },
+      "note": "small sans line 'Full Stack Developer · TypeScript, React y Node.js · 3 años construyendo para clientes reales.'"
+    },
+    {
+      "id": "cv-button",
+      "kind": "control",
+      "pixelBox": {
+        "x": 531,
+        "y": 468,
+        "w": 220,
+        "h": 74
+      },
+      "note": "blue button: square down-arrow tile joined to label tile 'DESCARGAR CV'"
+    },
+    {
+      "id": "proj-bookify",
+      "kind": "text",
+      "pixelBox": {
+        "x": 76,
+        "y": 620,
+        "w": 166,
+        "h": 74
+      },
+      "note": "blue bold sans 'Bookify'"
+    },
+    {
+      "id": "proj-turepe",
+      "kind": "text",
+      "pixelBox": {
+        "x": 314,
+        "y": 614,
+        "w": 154,
+        "h": 84
+      },
+      "note": "blue italic script 'Tu Repe'"
+    },
+    {
+      "id": "proj-liga",
+      "kind": "text",
+      "pixelBox": {
+        "x": 531,
+        "y": 622,
+        "w": 215,
+        "h": 70
+      },
+      "note": "blue slab-ish bold 'Liga Gestión'"
+    },
+    {
+      "id": "proj-cursada",
+      "kind": "text",
+      "pixelBox": {
+        "x": 798,
+        "y": 622,
+        "w": 166,
+        "h": 70
+      },
+      "note": "blue monospace 'Cursada'"
+    },
+    {
+      "id": "proj-fortunato",
+      "kind": "text",
+      "pixelBox": {
+        "x": 1018,
+        "y": 622,
+        "w": 187,
+        "h": 70
+      },
+      "note": "blue light serif 'Don Fortunato'"
+    }
+  ],
+  "allowUncovered": true
+}

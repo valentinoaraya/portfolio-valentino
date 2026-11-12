@@ -1,0 +1,1106 @@
+{
+  "tool": "comp-spec",
+  "version": 1,
+  "createdAt": "2026-11-11T21:47:43.288Z",
+  "comp": ".impeccable/mocks/comp-a.png",
+  "warnings": [],
+  "uncoveredInkCells": [
+    "D2",
+    "D8",
+    "A9"
+  ],
+  "compSize": {
+    "width": 1280,
+    "height": 720
+  },
+  "aspect": 1.7778,
+  "orientation": "landscape",
+  "palette": [
+    {
+      "hex": "#f8f8f8",
+      "coverage": 0.8845
+    },
+    {
+      "hex": "#0c0c0c",
+      "coverage": 0.0933
+    },
+    {
+      "hex": "#0836f3",
+      "coverage": 0.009
+    },
+    {
+      "hex": "#b3b3b3",
+      "coverage": 0.0077
+    },
+    {
+      "hex": "#6e6e6e",
+      "coverage": 0.0055
+    }
+  ],
+  "bands": [
+    {
+      "y": 0.2361,
+      "strength": 0.2017
+    },
+    {
+      "y": 0.2639,
+      "strength": 0.33
+    },
+    {
+      "y": 0.3056,
+      "strength": 1
+    },
+    {
+      "y": 0.4583,
+      "strength": 0.9355
+    },
+    {
+      "y": 0.5833,
+      "strength": 0.4716
+    },
+    {
+      "y": 0.6111,
+      "strength": 0.5768
+    },
+    {
+      "y": 0.6667,
+      "strength": 0.2706
+    },
+    {
+      "y": 0.7361,
+      "strength": 0.3076
+    },
+    {
+      "y": 0.9028,
+      "strength": 0.3649
+    },
+    {
+      "y": 0.9306,
+      "strength": 0.51
+    }
+  ],
+  "regions": [
+    {
+      "id": "wordmark",
+      "kind": "text",
+      "note": "blue hand-lettered script wordmark 'Valentino', top-left",
+      "grid": null,
+      "box": {
+        "x": 0.0016,
+        "y": 0,
+        "w": 0.1203,
+        "h": 0.1056
+      },
+      "px": {
+        "x": 2,
+        "y": 0,
+        "w": 154,
+        "h": 76
+      },
+      "aspect": 2.0263,
+      "palette": [
+        {
+          "hex": "#f7f7f8",
+          "coverage": 0.8609
+        },
+        {
+          "hex": "#0a2bd9",
+          "coverage": 0.0672
+        },
+        {
+          "hex": "#112cb6",
+          "coverage": 0.0402
+        },
+        {
+          "hex": "#7d91ec",
+          "coverage": 0.0162
+        },
+        {
+          "hex": "#9ab1f6",
+          "coverage": 0.0155
+        }
+      ],
+      "detail": {
+        "energy": 26.0121
+      },
+      "medium": "semantic",
+      "plate": null,
+      "text": null,
+      "surface": {
+        "flat": false,
+        "rules": false
+      },
+      "type": {
+        "comp": null,
+        "measuredAt": "2026-11-11T21:48:09.843Z",
+        "note": "no separable lettering in the crop; size by the region box"
+      }
+    },
+    {
+      "id": "nav-pill",
+      "kind": "control",
+      "note": "white pill nav with three uppercase links: SOBRE MÍ, PROYECTOS, CONTACTO",
+      "grid": null,
+      "box": {
+        "x": 0.4016,
+        "y": 0.0014,
+        "w": 0.1977,
+        "h": 0.0833
+      },
+      "px": {
+        "x": 514,
+        "y": 1,
+        "w": 253,
+        "h": 60
+      },
+      "aspect": 4.2167,
+      "palette": [
+        {
+          "hex": "#f8f8f8",
+          "coverage": 0.931
+        },
+        {
+          "hex": "#0e0e0f",
+          "coverage": 0.0318
+        },
+        {
+          "hex": "#c5c5c5",
+          "coverage": 0.0153
+        },
+        {
+          "hex": "#5d5e5e",
+          "coverage": 0.0112
+        },
+        {
+          "hex": "#9b9b9b",
+          "coverage": 0.0106
+        }
+      ],
+      "detail": {
+        "energy": 19.6773
+      },
+      "medium": "semantic",
+      "plate": null,
+      "text": null,
+      "surface": {
+        "flat": false,
+        "rules": false
+      }
+    },
+    {
+      "id": "lang-chip",
+      "kind": "control",
+      "note": "white chip 'ES / EN' language switch",
+      "grid": null,
+      "box": {
+        "x": 0.8531,
+        "y": 0.0042,
+        "w": 0.0672,
+        "h": 0.0778
+      },
+      "px": {
+        "x": 1092,
+        "y": 3,
+        "w": 86,
+        "h": 56
+      },
+      "aspect": 1.5357,
+      "palette": [
+        {
+          "hex": "#f8f8f8",
+          "coverage": 0.9619
+        },
+        {
+          "hex": "#111112",
+          "coverage": 0.0236
+        },
+        {
+          "hex": "#cdcdcd",
+          "coverage": 0.0109
+        },
+        {
+          "hex": "#383838",
+          "coverage": 0.0018
+        },
+        {
+          "hex": "#686868",
+          "coverage": 0.0018
+        }
+      ],
+      "detail": {
+        "energy": 6.1893
+      },
+      "medium": "semantic",
+      "plate": null,
+      "text": null,
+      "surface": {
+        "flat": false,
+        "rules": false
+      }
+    },
+    {
+      "id": "contact-chip",
+      "kind": "control",
+      "note": "white chip with blue dot and 'CONTACTO'",
+      "grid": null,
+      "box": {
+        "x": 0.907,
+        "y": 0.0042,
+        "w": 0.0898,
+        "h": 0.0778
+      },
+      "px": {
+        "x": 1161,
+        "y": 3,
+        "w": 115,
+        "h": 56
+      },
+      "aspect": 2.0536,
+      "palette": [
+        {
+          "hex": "#f8f8f8",
+          "coverage": 0.9484
+        },
+        {
+          "hex": "#101112",
+          "coverage": 0.0231
+        },
+        {
+          "hex": "#a0a0a0",
+          "coverage": 0.019
+        },
+        {
+          "hex": "#484848",
+          "coverage": 0.0054
+        },
+        {
+          "hex": "#1d38d8",
+          "coverage": 0.0041
+        }
+      ],
+      "detail": {
+        "energy": 10.3223
+      },
+      "medium": "semantic",
+      "plate": null,
+      "text": null,
+      "surface": {
+        "flat": false,
+        "rules": false
+      }
+    },
+    {
+      "id": "kicker",
+      "kind": "text",
+      "note": "serif kicker 'Valentino Araya / San Rafael, Mendoza'",
+      "grid": null,
+      "box": {
+        "x": 0.3516,
+        "y": 0.2194,
+        "w": 0.2984,
+        "h": 0.0611
+      },
+      "px": {
+        "x": 450,
+        "y": 158,
+        "w": 382,
+        "h": 44
+      },
+      "aspect": 8.6818,
+      "palette": [
+        {
+          "hex": "#f7f7f7",
+          "coverage": 0.8108
+        },
+        {
+          "hex": "#0f0f10",
+          "coverage": 0.1079
+        },
+        {
+          "hex": "#b2b2b2",
+          "coverage": 0.0354
+        },
+        {
+          "hex": "#4e4e4e",
+          "coverage": 0.0339
+        },
+        {
+          "hex": "#7d7f7f",
+          "coverage": 0.012
+        }
+      ],
+      "detail": {
+        "energy": 79.251
+      },
+      "medium": "semantic",
+      "plate": null,
+      "text": null,
+      "surface": {
+        "flat": false,
+        "rules": false
+      },
+      "type": {
+        "comp": {
+          "lines": 1,
+          "glyphs": 18,
+          "capHeightPx": 20.8,
+          "inkIsDark": true,
+          "allCaps": false,
+          "advance": 0.5419,
+          "advTall": 0.7828,
+          "advX": 0.5299,
+          "gap": 0.0241,
+          "xRatio": 0.6873,
+          "stemW": 0.128,
+          "contrast": 1.2643,
+          "serif": 1.731,
+          "densTall": 0.4235,
+          "densX": 0.5017,
+          "weight": 0.4235
+        },
+        "widthClass": "condensed",
+        "weightClass": "regular",
+        "chosen": {
+          "family": "Instrument Serif",
+          "weight": 400,
+          "fontSizePx": 28,
+          "source": "index",
+          "fp": {
+            "lines": 1,
+            "glyphs": 19,
+            "capHeightPx": 20.5,
+            "inkIsDark": true,
+            "allCaps": false,
+            "advance": 0.6104,
+            "advTall": 0.879,
+            "advX": 0.6104,
+            "gap": 0.0488,
+            "xRatio": 0.7015,
+            "stemW": 0.1284,
+            "contrast": 1.2284,
+            "serif": 2.0578,
+            "densTall": 0.4416,
+            "densX": 0.5263,
+            "weight": 0.4416
+          },
+          "stamp": "dc0e538c26f9"
+        }
+      }
+    },
+    {
+      "id": "headline-1",
+      "kind": "text",
+      "note": "ultra-heavy condensed grotesk capitals 'CONSTRUYO SOFTWARE', black",
+      "grid": null,
+      "box": {
+        "x": 0.0938,
+        "y": 0.2889,
+        "w": 0.8125,
+        "h": 0.1722
+      },
+      "px": {
+        "x": 120,
+        "y": 208,
+        "w": 1040,
+        "h": 124
+      },
+      "aspect": 8.3871,
+      "palette": [
+        {
+          "hex": "#0a0b0b",
+          "coverage": 0.5109
+        },
+        {
+          "hex": "#f8f8f8",
+          "coverage": 0.449
+        },
+        {
+          "hex": "#c3c3c3",
+          "coverage": 0.0173
+        },
+        {
+          "hex": "#515151",
+          "coverage": 0.0168
+        },
+        {
+          "hex": "#888888",
+          "coverage": 0.0061
+        }
+      ],
+      "detail": {
+        "energy": 88.3113
+      },
+      "medium": "semantic",
+      "plate": null,
+      "text": null,
+      "surface": {
+        "flat": false,
+        "rules": false
+      },
+      "type": {
+        "comp": {
+          "lines": 2,
+          "glyphs": 26,
+          "capHeightPx": 27.3,
+          "inkIsDark": false,
+          "allCaps": true,
+          "advance": 0.4483,
+          "advTall": 0.4483,
+          "advX": null,
+          "gap": 0.4483,
+          "xRatio": null,
+          "stemW": 0.1549,
+          "contrast": 0.6884,
+          "serif": 0.998,
+          "densTall": 0.7802,
+          "densX": null,
+          "weight": 0.7802
+        },
+        "widthClass": "compressed",
+        "weightClass": "black",
+        "chosen": {
+          "family": "Karantina",
+          "weight": 400,
+          "fontSizePx": 39,
+          "source": "index",
+          "fp": {
+            "lines": 1,
+            "glyphs": 16,
+            "capHeightPx": 27.7,
+            "inkIsDark": true,
+            "allCaps": true,
+            "advance": 0.3615,
+            "advTall": 0.3615,
+            "advX": null,
+            "gap": 0.0723,
+            "xRatio": null,
+            "stemW": 0.1508,
+            "contrast": 1.0102,
+            "serif": 1.5614,
+            "densTall": 0.7739,
+            "densX": null,
+            "weight": 0.7739
+          },
+          "stamp": "22cbd242d6ae"
+        }
+      }
+    },
+    {
+      "id": "headline-2",
+      "kind": "text",
+      "note": "light condensed serif capitals 'QUE ESTÁ EN PRODUCCIÓN', black",
+      "grid": null,
+      "box": {
+        "x": 0.1469,
+        "y": 0.4611,
+        "w": 0.7203,
+        "h": 0.1444
+      },
+      "px": {
+        "x": 188,
+        "y": 332,
+        "w": 922,
+        "h": 104
+      },
+      "aspect": 8.8654,
+      "palette": [
+        {
+          "hex": "#f7f7f7",
+          "coverage": 0.8105
+        },
+        {
+          "hex": "#0f0f10",
+          "coverage": 0.1541
+        },
+        {
+          "hex": "#9d9d9d",
+          "coverage": 0.0173
+        },
+        {
+          "hex": "#5c5c5c",
+          "coverage": 0.0154
+        },
+        {
+          "hex": "#c8c8c8",
+          "coverage": 0.0026
+        }
+      ],
+      "detail": {
+        "energy": 99.6655
+      },
+      "medium": "semantic",
+      "plate": null,
+      "text": null,
+      "surface": {
+        "flat": false,
+        "rules": false
+      },
+      "type": {
+        "comp": {
+          "lines": 1,
+          "glyphs": 20,
+          "capHeightPx": 71.5,
+          "inkIsDark": true,
+          "allCaps": true,
+          "advance": 0.5453,
+          "advTall": 0.5453,
+          "advX": null,
+          "gap": 0.0419,
+          "xRatio": null,
+          "stemW": 0.0922,
+          "contrast": 1.7147,
+          "serif": null,
+          "densTall": 0.3082,
+          "densX": null,
+          "weight": 0.3082
+        },
+        "widthClass": "condensed",
+        "weightClass": "light",
+        "chosen": {
+          "family": "Instrument Serif",
+          "weight": 400,
+          "fontSizePx": 99,
+          "source": "index",
+          "fp": {
+            "lines": 1,
+            "glyphs": 20,
+            "capHeightPx": 71.5,
+            "inkIsDark": true,
+            "allCaps": true,
+            "advance": 0.5594,
+            "advTall": 0.5594,
+            "advX": null,
+            "gap": 0.0839,
+            "xRatio": null,
+            "stemW": 0.1061,
+            "contrast": 1.6471,
+            "serif": 4.0853,
+            "densTall": 0.3655,
+            "densX": null,
+            "weight": 0.3655
+          },
+          "stamp": "e2b5986b3d57"
+        }
+      }
+    },
+    {
+      "id": "subline",
+      "kind": "text",
+      "note": "small sans line 'Full Stack Developer · TypeScript, React y Node.js · 3 años construyendo para clientes reales.'",
+      "grid": null,
+      "box": {
+        "x": 0.2,
+        "y": 0.5819,
+        "w": 0.593,
+        "h": 0.075
+      },
+      "px": {
+        "x": 256,
+        "y": 419,
+        "w": 759,
+        "h": 54
+      },
+      "aspect": 14.0556,
+      "palette": [
+        {
+          "hex": "#f8f8f8",
+          "coverage": 0.9073
+        },
+        {
+          "hex": "#0d0d0d",
+          "coverage": 0.0558
+        },
+        {
+          "hex": "#686868",
+          "coverage": 0.0158
+        },
+        {
+          "hex": "#999999",
+          "coverage": 0.0109
+        },
+        {
+          "hex": "#c0c0c0",
+          "coverage": 0.0102
+        }
+      ],
+      "detail": {
+        "energy": 38.5449
+      },
+      "medium": "semantic",
+      "plate": null,
+      "text": null,
+      "surface": {
+        "flat": false,
+        "rules": false
+      },
+      "type": {
+        "comp": {
+          "lines": 1,
+          "glyphs": 52,
+          "capHeightPx": 14,
+          "inkIsDark": true,
+          "allCaps": false,
+          "advance": 0.6431,
+          "advTall": 0.7145,
+          "advX": 0.6074,
+          "gap": 0.0715,
+          "xRatio": 0.7049,
+          "stemW": 0.1729,
+          "contrast": 1.0641,
+          "serif": 0.3504,
+          "densTall": 0.5081,
+          "densX": 0.5802,
+          "weight": 0.5081
+        },
+        "widthClass": "normal",
+        "weightClass": "medium",
+        "chosen": {
+          "family": "Faculty Glyphic",
+          "weight": 400,
+          "fontSizePx": 17,
+          "source": "index",
+          "fp": {
+            "lines": 1,
+            "glyphs": 15,
+            "capHeightPx": 14.1,
+            "inkIsDark": true,
+            "allCaps": false,
+            "advance": 0.5658,
+            "advTall": 0.5304,
+            "advX": 0.5835,
+            "gap": 0.0707,
+            "xRatio": 0.7013,
+            "stemW": 0.1656,
+            "contrast": 1.0748,
+            "serif": 1.0321,
+            "densTall": 0.5099,
+            "densX": 0.5533,
+            "weight": 0.5099
+          },
+          "stamp": "ec051b04b93c"
+        }
+      }
+    },
+    {
+      "id": "cv-button",
+      "kind": "control",
+      "note": "blue button: square down-arrow tile joined to label tile 'DESCARGAR CV'",
+      "grid": null,
+      "box": {
+        "x": 0.4148,
+        "y": 0.65,
+        "w": 0.1719,
+        "h": 0.1028
+      },
+      "px": {
+        "x": 531,
+        "y": 468,
+        "w": 220,
+        "h": 74
+      },
+      "aspect": 2.973,
+      "palette": [
+        {
+          "hex": "#f7f8f8",
+          "coverage": 0.4893
+        },
+        {
+          "hex": "#0838f7",
+          "coverage": 0.3749
+        },
+        {
+          "hex": "#1338cb",
+          "coverage": 0.0654
+        },
+        {
+          "hex": "#bac1df",
+          "coverage": 0.0457
+        },
+        {
+          "hex": "#3a5cd9",
+          "coverage": 0.0248
+        }
+      ],
+      "detail": {
+        "energy": 26.709
+      },
+      "medium": "semantic",
+      "plate": null,
+      "text": null,
+      "surface": {
+        "flat": false,
+        "rules": false
+      }
+    },
+    {
+      "id": "proj-bookify",
+      "kind": "text",
+      "note": "blue bold sans 'Bookify'",
+      "grid": null,
+      "box": {
+        "x": 0.0594,
+        "y": 0.8611,
+        "w": 0.1297,
+        "h": 0.1028
+      },
+      "px": {
+        "x": 76,
+        "y": 620,
+        "w": 166,
+        "h": 74
+      },
+      "aspect": 2.2432,
+      "palette": [
+        {
+          "hex": "#f7f8f8",
+          "coverage": 0.8525
+        },
+        {
+          "hex": "#0834f3",
+          "coverage": 0.0855
+        },
+        {
+          "hex": "#1036cf",
+          "coverage": 0.0288
+        },
+        {
+          "hex": "#b6cef7",
+          "coverage": 0.0214
+        },
+        {
+          "hex": "#2346c9",
+          "coverage": 0.0118
+        }
+      ],
+      "detail": {
+        "energy": 16.7549
+      },
+      "medium": "semantic",
+      "plate": null,
+      "text": null,
+      "surface": {
+        "flat": false,
+        "rules": false
+      },
+      "type": {
+        "comp": {
+          "lines": 1,
+          "glyphs": 7,
+          "capHeightPx": 26.9,
+          "inkIsDark": true,
+          "allCaps": false,
+          "advance": 0.7258,
+          "advTall": 0.5769,
+          "advX": 0.7444,
+          "gap": 0.0558,
+          "xRatio": 0.7162,
+          "stemW": 0.2307,
+          "contrast": 1.1788,
+          "serif": null,
+          "densTall": 0.6913,
+          "densX": 0.6358,
+          "weight": 0.6913
+        },
+        "widthClass": "wide",
+        "weightClass": "black"
+      }
+    },
+    {
+      "id": "proj-turepe",
+      "kind": "text",
+      "note": "blue italic script 'Tu Repe'",
+      "grid": null,
+      "box": {
+        "x": 0.2453,
+        "y": 0.8528,
+        "w": 0.1203,
+        "h": 0.1167
+      },
+      "px": {
+        "x": 314,
+        "y": 614,
+        "w": 154,
+        "h": 84
+      },
+      "aspect": 1.8333,
+      "palette": [
+        {
+          "hex": "#f7f7f7",
+          "coverage": 0.9211
+        },
+        {
+          "hex": "#0d29c8",
+          "coverage": 0.0423
+        },
+        {
+          "hex": "#142db5",
+          "coverage": 0.0136
+        },
+        {
+          "hex": "#a1b1f8",
+          "coverage": 0.0122
+        },
+        {
+          "hex": "#0f2fe8",
+          "coverage": 0.0108
+        }
+      ],
+      "detail": {
+        "energy": 20.5617
+      },
+      "medium": "semantic",
+      "plate": null,
+      "text": null,
+      "surface": {
+        "flat": false,
+        "rules": false
+      },
+      "type": {
+        "comp": {
+          "lines": 1,
+          "glyphs": 2,
+          "capHeightPx": 35,
+          "inkIsDark": true,
+          "allCaps": true,
+          "advance": null,
+          "advTall": null,
+          "advX": null,
+          "gap": 0.1571,
+          "xRatio": null,
+          "stemW": 0.1063,
+          "contrast": 1.0079,
+          "serif": null,
+          "densTall": null,
+          "densX": null,
+          "weight": null
+        },
+        "widthClass": "normal",
+        "weightClass": "regular"
+      }
+    },
+    {
+      "id": "proj-liga",
+      "kind": "text",
+      "note": "blue slab-ish bold 'Liga Gestión'",
+      "grid": null,
+      "box": {
+        "x": 0.4148,
+        "y": 0.8639,
+        "w": 0.168,
+        "h": 0.0972
+      },
+      "px": {
+        "x": 531,
+        "y": 622,
+        "w": 215,
+        "h": 70
+      },
+      "aspect": 3.0714,
+      "palette": [
+        {
+          "hex": "#f7f8f7",
+          "coverage": 0.8968
+        },
+        {
+          "hex": "#0b2ee1",
+          "coverage": 0.0528
+        },
+        {
+          "hex": "#1434c6",
+          "coverage": 0.0252
+        },
+        {
+          "hex": "#bfd2f8",
+          "coverage": 0.0156
+        },
+        {
+          "hex": "#9badf6",
+          "coverage": 0.0096
+        }
+      ],
+      "detail": {
+        "energy": 24.285
+      },
+      "medium": "semantic",
+      "plate": null,
+      "text": null,
+      "surface": {
+        "flat": false,
+        "rules": false
+      },
+      "type": {
+        "comp": {
+          "lines": 1,
+          "glyphs": 11,
+          "capHeightPx": 22.3,
+          "inkIsDark": true,
+          "allCaps": false,
+          "advance": 0.6716,
+          "advTall": 0.694,
+          "advX": 0.6716,
+          "gap": 0.0336,
+          "xRatio": 0.6871,
+          "stemW": 0.2042,
+          "contrast": 1.309,
+          "serif": 1.8653,
+          "densTall": 0.5233,
+          "densX": 0.6508,
+          "weight": 0.5233
+        },
+        "widthClass": "normal",
+        "weightClass": "medium"
+      }
+    },
+    {
+      "id": "proj-cursada",
+      "kind": "text",
+      "note": "blue monospace 'Cursada'",
+      "grid": null,
+      "box": {
+        "x": 0.6234,
+        "y": 0.8639,
+        "w": 0.1297,
+        "h": 0.0972
+      },
+      "px": {
+        "x": 798,
+        "y": 622,
+        "w": 166,
+        "h": 70
+      },
+      "aspect": 2.3714,
+      "palette": [
+        {
+          "hex": "#f7f8f8",
+          "coverage": 0.931
+        },
+        {
+          "hex": "#0d29c7",
+          "coverage": 0.036
+        },
+        {
+          "hex": "#adbef7",
+          "coverage": 0.0169
+        },
+        {
+          "hex": "#172ca9",
+          "coverage": 0.0084
+        },
+        {
+          "hex": "#485dd6",
+          "coverage": 0.0077
+        }
+      ],
+      "detail": {
+        "energy": 17.0817
+      },
+      "medium": "semantic",
+      "plate": null,
+      "text": null,
+      "surface": {
+        "flat": false,
+        "rules": false
+      },
+      "type": {
+        "comp": {
+          "lines": 1,
+          "glyphs": 7,
+          "capHeightPx": 22.8,
+          "inkIsDark": true,
+          "allCaps": false,
+          "advance": 0.6789,
+          "advTall": 0.6679,
+          "advX": 0.6789,
+          "gap": 0.1533,
+          "xRatio": 0.6964,
+          "stemW": 0.1429,
+          "contrast": 1.0827,
+          "serif": 2.4411,
+          "densTall": 0.4321,
+          "densX": 0.5254,
+          "weight": 0.4321
+        },
+        "widthClass": "normal",
+        "weightClass": "regular"
+      }
+    },
+    {
+      "id": "proj-fortunato",
+      "kind": "text",
+      "note": "blue light serif 'Don Fortunato'",
+      "grid": null,
+      "box": {
+        "x": 0.7953,
+        "y": 0.8639,
+        "w": 0.1461,
+        "h": 0.0972
+      },
+      "px": {
+        "x": 1018,
+        "y": 622,
+        "w": 187,
+        "h": 70
+      },
+      "aspect": 2.6714,
+      "palette": [
+        {
+          "hex": "#f7f7f7",
+          "coverage": 0.945
+        },
+        {
+          "hex": "#142bbc",
+          "coverage": 0.0213
+        },
+        {
+          "hex": "#8392eb",
+          "coverage": 0.0124
+        },
+        {
+          "hex": "#6576e0",
+          "coverage": 0.011
+        },
+        {
+          "hex": "#1a2a9e",
+          "coverage": 0.0103
+        }
+      ],
+      "detail": {
+        "energy": 21.0592
+      },
+      "medium": "semantic",
+      "plate": null,
+      "text": null,
+      "surface": {
+        "flat": false,
+        "rules": false
+      },
+      "type": {
+        "comp": {
+          "lines": 1,
+          "glyphs": 9,
+          "capHeightPx": 22.8,
+          "inkIsDark": true,
+          "allCaps": false,
+          "advance": 0.5697,
+          "advTall": 0.5697,
+          "advX": 0.5259,
+          "gap": 0.0438,
+          "xRatio": 0.6742,
+          "stemW": 0.1224,
+          "contrast": 1.5597,
+          "serif": 1.4432,
+          "densTall": 0.4067,
+          "densX": 0.4938,
+          "weight": 0.4067
+        },
+        "widthClass": "condensed",
+        "weightClass": "regular"
+      }
+    }
+  ],
+  "compSha256": "bba5cbc00b66ac934b128bd53935c81985a8d46163b1bbe219ecf8bc9305eaff",
+  "regionsSource": {
+    "path": ".impeccable/build/regions.json",
+    "sha256": "4fef3018a7aa977bb6b3d1512ff685d364cf10131f9d8113bf7ce27d44adac39"
+  }
+}
